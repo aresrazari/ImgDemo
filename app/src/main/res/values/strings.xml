@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Img Demo</string>
+    <string name="get_image">Get Image From Server</string>
+</resources>
